@@ -4,7 +4,6 @@
 
 - 🔭 Procurando Vaga como Dev-Front-End
 - 🌱 Aprendendo React/redux
-- 😄 Pronomes: Ele/Dele
 
 ##
 
