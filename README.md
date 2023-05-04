@@ -8,19 +8,22 @@
 ##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=HyanFranck&theme=codeSTACKr&count_private=true" />
+  <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api?username=HyanFranck&theme=codeSTACKr&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyanFranck&layout=compact)](https://github.com/HyanFranck/github-readme-stats" />
+  <img align="center" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyanFranck&layout=compact)](https://github.com/HyanFranck/github-readme-stats" />
 </a>
 
 ##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg">
+  
+          
 
 </div>
   
