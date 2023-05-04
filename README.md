@@ -1,6 +1,6 @@
 # Hello There! Meu nome é Hyan Franck!
 
-
+Sou um entusiasta de tecnologia com grande interesse em me tornar um desenvolvedor web front-end. Tenho habilidades em HTML5, CSS e JavaScript, Bootstrap 5 e estou buscando aprender e aprimorar minhas habilidades para criar sistemas e sites web eficientes e atraentes. 
 
 ##
 
