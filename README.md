@@ -1,4 +1,4 @@
-### Hello There! Eu sou Hyan Franck!
+# Hello There! Meu nome é Hyan Franck!
 
 ##
 
@@ -8,10 +8,10 @@
 ##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HyanFranck&theme=codeSTACKr&count_private=true" />
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=HyanFranck&theme=codeSTACKr&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyanFranck&layout=compact)](https://github.com/HyanFranck/github-readme-stats" />
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyanFranck&layout=compact)](https://github.com/HyanFranck/github-readme-stats" />
 </a>
 
 ##
